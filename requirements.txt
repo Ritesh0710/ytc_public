@@ -5,3 +5,5 @@ matplotlib
 lxml
 beautifulsoup4
 requests
+time
+hashlib
